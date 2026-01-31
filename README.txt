@@ -2,10 +2,9 @@ This dataset contains multimodal magnetic resonance imaging (MRI) and clinical d
 The dataset includes high-resolution structural MRI, diffusion MRI, resting-state functional MRI, and associated clinical and neuropsychological assessments. 
 
 Participants
-* Diagnosis: Olfactory groove meningioma
-* Study design: Prospective, single-center
+* Diagnosis: OGM
+* Study design:  prospective, single-center
 * Imaging time points: preoperative (folders labeled sub-**) and postoperative (folders labeled sub-**fu, when available)
-* Ethics approval and written informed consent were obtained for all participants, including explicit consent for data sharing.
 
 
 Modalities included:
