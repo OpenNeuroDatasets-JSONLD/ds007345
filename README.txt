@@ -1,4 +1,3 @@
-Dataset description
 This dataset contains multimodal magnetic resonance imaging (MRI) and clinical data acquired prospectively from patients diagnosed with olfactory groove meningioma (OGM). Data were collected before and after surgical treatment using a standardized imaging and assessment protocol. The dataset is intended to support research in neuroimaging, neuro-oncology, and computational neuroscience, with a particular focus on tumor-related brain alterations, peritumoral edema effects, and postoperative recovery.
 The dataset includes high-resolution structural MRI, diffusion MRI, resting-state functional MRI, and associated clinical and neuropsychological assessments. All imaging data are organized according to the Brain Imaging Data Structure (BIDS) specification.
 
@@ -36,6 +35,7 @@ The derivatives/ directory contains processed imaging data, including:
 * Preprocessed diffusion MRI data corrected for susceptibility distortions and eddy currents (topup + eddy)
 * Diffusion tensor–derived metrics: fractional anisotropy (FA), mean diffusivity (MD), radial diffusivity (RD), and longitudinal/axial diffusivity (LD/AD)
 * Tractography files derived from constrained spherical deconvolution (CSD)
+* MRIQC output folder with both participant and group-level analyses
 
 Preprocessing summary
 * Structural MRI data were visually inspected and defaced for anonymization.
@@ -44,5 +44,5 @@ Preprocessing summary
 * Quality control was conducted at multiple stages to ensure adequate data quality for reuse.
 
 Potential reuse
-This dataset may be reused for studies of tumor-related brain changes, diffusion MRI methodology benchmarking, tractography analyses in the presence of mass lesions, imaging biomarker development using multimodal MRI data. 
+This dataset may be reused for studies of tumor-related brain changes, diffusion MRI methodology  tractography analyses in the presence of mass lesions, imaging biomarker development using multimodal MRI data. 
 
