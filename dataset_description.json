@@ -13,5 +13,8 @@
     ],
     "DatasetDOI": "NA",
     "License": "CC0",
-    "EthicsApprovals": []
+    "EthicsApprovals": [],
+    "Funding": [
+        "This study was supported by the Russian Science Foundation (RSF grant 25-25-00370). "
+    ]
 }
