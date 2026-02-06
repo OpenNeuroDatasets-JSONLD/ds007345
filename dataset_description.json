@@ -13,7 +13,9 @@
     ],
     "DatasetDOI": "NA",
     "License": "CC0",
-    "EthicsApprovals": [],
+    "EthicsApprovals": [
+        "Ethics approval for the research protocol was given by the local ethics committee of the Federal Center of Neurosurgery, dated 03-14-2023 (protocol # 5)"
+    ],
     "Funding": [
         "This study was supported by the Russian Science Foundation (RSF grant 25-25-00370). "
     ]
