@@ -41,6 +41,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
+      - name: Anton Pashkov
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0002-2403-3136
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 6
     creators:
       - name: Elena Filimonova
         nameType: Personal
@@ -53,6 +63,9 @@ data:
         nameType: Personal
       - name: Jamil Rzaev
         nameType: Personal
+      - name: Anton Pashkov
+        nameType: Personal
+        nameIdentifiers: *ref_1
     descriptions:
       - description: N/A
         descriptionType: Abstract
