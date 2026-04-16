@@ -23,6 +23,13 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 2
+      - name: Galina Moysak
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
     creators:
       - name: Elena Filimonova
         nameType: Personal
@@ -30,6 +37,8 @@ data:
       - name: Anton Pashkov
         nameType: Personal
         nameIdentifiers: *ref_1
+      - name: Galina Moysak
+        nameType: Personal
     descriptions:
       - description: N/A
         descriptionType: Abstract
