@@ -13,10 +13,46 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 1
+      - name: Galina Moysak
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Vladimir Kurilov
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Azniv Martirosyan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Jamil Rzaev
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
     creators:
       - name: Elena Filimonova
         nameType: Personal
         nameIdentifiers: *ref_0
+      - name: Galina Moysak
+        nameType: Personal
+      - name: Vladimir Kurilov
+        nameType: Personal
+      - name: Azniv Martirosyan
+        nameType: Personal
+      - name: Jamil Rzaev
+        nameType: Personal
     descriptions:
       - description: N/A
         descriptionType: Abstract
