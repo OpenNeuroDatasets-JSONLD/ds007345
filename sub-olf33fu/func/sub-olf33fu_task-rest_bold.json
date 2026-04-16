@@ -16,6 +16,7 @@
     "MRAcquisitionType": "2D",
     "SeriesDescription": "rest-fMRI",
     "ProtocolName": "rest-fMRI",
+    "TaskName": "rest",
     "ScanningSequence": "GR",
     "SequenceVariant": "SK",
     "ScanOptions": "FS",
