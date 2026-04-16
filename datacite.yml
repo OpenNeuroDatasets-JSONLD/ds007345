@@ -30,6 +30,27 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
+      - name: Azniv Martirosyan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Vladimir Kurilov
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Jamil Rzaev
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
     creators:
       - name: Elena Filimonova
         nameType: Personal
@@ -38,6 +59,12 @@ data:
         nameType: Personal
         nameIdentifiers: *ref_1
       - name: Galina Moysak
+        nameType: Personal
+      - name: Azniv Martirosyan
+        nameType: Personal
+      - name: Vladimir Kurilov
+        nameType: Personal
+      - name: Jamil Rzaev
         nameType: Personal
     descriptions:
       - description: N/A
